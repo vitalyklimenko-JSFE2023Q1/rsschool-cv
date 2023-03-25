@@ -18,9 +18,11 @@ I'm a hardworking person with organizational skills and excellent communication 
 I've finished Gomel State University at physics department and also finished university in France (IUP, Clermont-Ferrand) as a manager-economist.
 
   
-I know a little bit basic stuff in:
+### Tech skills:
 - HTML
 - CSS
 - JS
 - Photoshop
 - SketchUp
+
+### English level - B1
