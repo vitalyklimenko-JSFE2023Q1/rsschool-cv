@@ -1,7 +1,6 @@
 body {
   background: #fafafa;
 }
-
 div {
     width: 50rem;
     background: #ececec;
@@ -12,17 +11,16 @@ div {
 }
 h1 {
   font-size: 50px;
-      font-family: Verdana, Arial, Helvetica, sans-serif; 
+      font-family: Verdana, Arial, Helvetica, sans-serif;
     color: #333366;
 }
 p {
     font-size: 30px;
-      font-family: Verdana, Arial, Helvetica, sans-serif; 
+      font-family: Verdana, Arial, Helvetica, sans-serif;
     color: #333366;
 }
 h2 {
     font-size: 15px;
-      font-family: Verdana, Arial, Helvetica, sans-serif; 
+      font-family: Verdana, Arial, Helvetica, sans-serif;
     color: black;
 }
-
